@@ -1,6 +1,7 @@
 # PID-Box
 ## Weekly Schedule
 | Week #  | Plan |
+|---------|------|
 | Week 1  | Make PID Box plan |
 | Week 2 | Design box |
 | Week 3 | Design box |
