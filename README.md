@@ -2,7 +2,7 @@
 ## Weekly Schedule
 | Week #  | Plan |
 |---------|------|
-| Week 12/9-12/13  | Make PID Box plan |
+| Week 1 12/9-12/13 | Make PID Box plan |
 | Week 2 1/6-1/10 | Design box |
 | Week 3 1/13-1/17 | Design box|
 | Week 4 1/1 1/24 | Design motormount |
