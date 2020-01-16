@@ -12,6 +12,6 @@
 | Week 8 2/17-2/21 | Refine box/code |
 | Week 9 2/24-2/28 | Refine box/code |
 ## Description  
-In this project I will make a PID box with six sides, a motor, an LCD, and a rotating wheel. Lights and the LCD will turn on when a swtich is flipped, and another switch will turn on a motor. Turning a dial will turn on the motor, and the RPM of the wheel on the motor will be tracked and diplayed on the LCD along with the desired RPM.
+In this project I will make a PID box with six sides, a motor, an LCD, and a rotating wheel. Lights and the LCD will turn on when a swtich is flipped, and another switch will turn on a motor. Turning a dial will turn on the motor, and the RPM of the wheel on the motor will be tracked and diplayed on the LCD along with the desired RPM. A second switch will enable/disable PID mode and a potentiometer will determine motor speed.
 ## Dimensions
 130 millimeters height x 180 millimeters lentgh x 120 millimeters width
